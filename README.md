@@ -7,3 +7,4 @@ Knowing the markdown syntax is worthwhile!
 ## The double pound sign is the h2 equivalent
 +1 is thumbs up
 The changes to this file are saved by committing (saving) the changes
+Use the plus sign + in the upperright to create new file via webbrowser in your repo
